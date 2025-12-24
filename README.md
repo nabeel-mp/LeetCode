@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/nabeel7736/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nabeel7736/LeetCode/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/nabeel7736/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/nabeel7736/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nabeel7736/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1791-richest-customer-wealth](https://github.com/nabeel7736/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -160,18 +161,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nabeel7736/LeetCode/tree/master/0200-number-of-islands) |
 | [1791-richest-customer-wealth](https://github.com/nabeel7736/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nabeel7736/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nabeel7736/LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nabeel7736/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nabeel7736/LeetCode/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nabeel7736/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nabeel7736/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
