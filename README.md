@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nabeel7736/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nabeel7736/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nabeel7736/LeetCode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/nabeel7736/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nabeel7736/LeetCode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nabeel7736/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/nabeel7736/LeetCode/tree/master/2383-add-two-integers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nabeel7736/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nabeel7736/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/nabeel7736/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2058-concatenation-of-array](https://github.com/nabeel7736/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nabeel7736/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/nabeel7736/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Trie
 |  |
