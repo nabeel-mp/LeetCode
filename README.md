@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nabeel7736/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/nabeel7736/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nabeel7736/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1791-richest-customer-wealth](https://github.com/nabeel7736/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/nabeel7736/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nabeel7736/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nabeel7736/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nabeel7736/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nabeel7736/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nabeel7736/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nabeel7736/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nabeel7736/LeetCode/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/nabeel7736/LeetCode/tree/master/3226-minimum-number-game) |
 ## String Matching
 |  |
