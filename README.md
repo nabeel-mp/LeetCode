@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nabeel7736/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/nabeel7736/LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/nabeel7736/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3024-type-of-triangle](https://github.com/nabeel7736/LeetCode/tree/master/3024-type-of-triangle) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nabeel7736/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nabeel7736/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Array
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nabeel7736/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nabeel7736/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nabeel7736/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3024-type-of-triangle](https://github.com/nabeel7736/LeetCode/tree/master/3024-type-of-triangle) |
 | [3194-find-words-containing-character](https://github.com/nabeel7736/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/nabeel7736/LeetCode/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nabeel7736/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nabeel7736/LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3024-type-of-triangle](https://github.com/nabeel7736/LeetCode/tree/master/3024-type-of-triangle) |
 | [3226-minimum-number-game](https://github.com/nabeel7736/LeetCode/tree/master/3226-minimum-number-game) |
 ## String Matching
 |  |
